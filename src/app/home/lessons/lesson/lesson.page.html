@@ -1,0 +1,17 @@
+<ion-header>
+    <ion-toolbar>
+        <ion-buttons slot="start">
+            <ion-back-button defaultHref="/home/tabs/lessons"></ion-back-button>
+        </ion-buttons>
+        <ion-title>Lesson {{lesson?.id}}</ion-title>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content>
+    <ion-button
+        color="primary"
+        [routerLink]="['/','home','tabs','lessons',lesson?.id]"
+    >
+        Play
+    </ion-button>
+</ion-content>

@@ -1,20 +1,18 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>
-      Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
+<!-- <ion-header [translucent]="true">
     <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
+        <ion-title>Sussex IX</ion-title>
     </ion-toolbar>
-  </ion-header>
+</ion-header> -->
 
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
-</ion-content>
+<ion-tabs>
+    <ion-tab-bar slot="bottom">
+        <ion-tab-button tab="lessons">
+            <ion-label>Lessons</ion-label>
+            <ion-icon name="list-sharp"></ion-icon>
+        </ion-tab-button>
+        <ion-tab-button tab="notes">
+            <ion-label>Notes</ion-label>
+            <ion-icon name="journal-outline"></ion-icon>
+        </ion-tab-button>
+    </ion-tab-bar>
+</ion-tabs>
