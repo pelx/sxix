@@ -1,6 +1,6 @@
 export class Note {
     constructor(
-        public noteId: number,
+        public noteId: string,
         public lessonId: string,
         public lessonTitle: string,
         public note: string,

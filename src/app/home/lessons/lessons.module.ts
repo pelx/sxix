@@ -9,12 +9,7 @@ import { LessonsPageRoutingModule } from './lessons-routing.module';
 import { LessonsPage } from './lessons.page';
 
 @NgModule({
-  imports: [
-    CommonModule,
-    FormsModule,
-    IonicModule,
-    LessonsPageRoutingModule
-  ],
-  declarations: [LessonsPage]
+  imports: [CommonModule, FormsModule, IonicModule, LessonsPageRoutingModule],
+  declarations: [LessonsPage],
 })
 export class LessonsPageModule {}

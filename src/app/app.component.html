@@ -1,3 +1,54 @@
 <ion-app>
-  <ion-router-outlet></ion-router-outlet>
+    <ion-menu
+        side="start"
+        menuId="main-menu"
+    >
+        <ion-header>
+            <ion-toolbar>
+                <ion-title>Sussex IX</ion-title>
+            </ion-toolbar>
+        </ion-header>
+        <ion-content>
+            <ion-list menu="side">
+                <ion-menu-toggle>
+                    <ion-item
+                        lines="none"
+                        routerLink="/home/tabs/lessons"
+                    >
+                        <ion-icon
+                            name="list-sharp"
+                            slot="start"
+                        ></ion-icon>
+                        <ion-label>Lessons</ion-label>
+                    </ion-item>
+                </ion-menu-toggle>
+                <ion-menu-toggle>
+                    <ion-item
+                        lines="none"
+                        routerLink="/home/tabs/notes"
+                    >
+                        <ion-icon
+                            name="journal-outline"
+                            slot="start"
+                        ></ion-icon>
+                        <ion-label>Notes</ion-label>
+                    </ion-item>
+                </ion-menu-toggle>
+                <ion-menu-toggle>
+                    <ion-item
+                        lines="none"
+                        (click)="onLogout()"
+                        button
+                    >
+                        <ion-icon
+                            name="exit"
+                            slot="start"
+                        ></ion-icon>
+                        <ion-label>Logout</ion-label>
+                    </ion-item>
+                </ion-menu-toggle>
+            </ion-list>
+        </ion-content>
+    </ion-menu>
+    <ion-router-outlet main></ion-router-outlet>
 </ion-app>

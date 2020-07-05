@@ -1,0 +1,22 @@
+<ion-item
+    class="note-item"
+    [routerLink]="['/','home','tabs','notes','edit', note.noteId]"
+>
+
+    <ion-label>
+        <h2>{{note.lessonId}}</h2>
+
+        <div>
+            <ion-icon
+                color="tertiary"
+                name="calendar"
+            ></ion-icon>
+            <ion-text
+                class="space-left"
+                color="primary"
+            >
+                {{note.note}}
+            </ion-text>
+        </div>
+    </ion-label>
+</ion-item>

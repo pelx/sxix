@@ -1,0 +1,607 @@
+﻿1	S9-001	Garet Newell	 Talk (Short Intro to the training and to the segment)	00:11:55	 1	1	url	 Talk	 Talk
+2	S9-002	Garet Newell	 ATM (Getting to know yourself through simple movements) + 
+Partner Work (Sharing experiences from previous ATM)	00:44:51	 1	1	url	 ATM	 ATM
+3	S9-003	Garet Newell	 Talk (Some words about the Amherst training and the materials Garet is teaching from)	00:02:11	 1	1	url	 Talk	 Talk
+4	S9-004	Garet Newell	 ATM (Lifes first movement- sucking, AH 06/09/80) + 
+Partner Work (Share experiences from previous ATM)	00:27:06	 1	1	url	 ATM	 ATM
+5	S9-005	Garet Newell	 Talk (Sharing some experiences from previous ATM with the big group)	00:13:27	 1	1	url	 Talk	 Talk
+6	S9-006	Garet Newell	 ATM (Scan and make a drawing)	00:14:01	 1	1	url	 ATM	 ATM
+7	S9-007	Garet Newell	 ATM (Movements of the eyes, right and left, AH 06/09/80)	00:33:36	 1	1	url	 ATM	 ATM
+8	S9-008	Garet Newell	 Talk (About yesterday's ATM lesson with the eyes and some more details of early child development)	00:14:19	 1	1	url	 Talk	 Talk
+9	S9-009	Garet Newell	 ATM (Lifting head, flexing upper body, AH 06/09/80)	00:33:13	 1	1	url	 ATM	 ATM
+10	S9-010	Garet Newell	 Talk (Learning by approximation vs. learning by imitation) + Group Work (Observation LOB)	00:07:08	 1	1	url	 Talk	 Talk
+11	S9-011	Garet Newell	 ATM (Flexing the upper body (elbow to knee), AH 06/10/80)	00:45:41	 1	1	url	 ATM	 ATM
+12	S9-012	Garet Newell	 Talk (About Christian Burghardt's biography of Moshe Feldenkrais) + 
+Talk (Some reports about experiences from yesterday)	00:21:21	 1	1	url	 Talk	 Talk
+13	S9-013	Garet Newell	 ATM (LOB, lift head, lift knees, roll to the right & left)	00:48:20	 1	1	url	 ATM	 ATM
+14	S9-014	Garet Newell	 ATM (Elbow to knee (in sitting, rolling back), AH 06/10/80) + Group Work	00:31:49	 1	1	url	 ATM	 ATM
+15	S9-015	Garet Newell	 ATM (LOB, lift head, lift knees, roll to the right & left, AH 06/10/80)	00:41:41	 1	1	url	 ATM	 ATM
+16	S9-016	Garet Newell	 Talk (About accidents)	00:19:04	 1	1	url	 Talk	 Talk
+17	S9-017	Garet Newell	 ATM (LOB, bend leg, press with foot to roll onto side, then LOF)	00:42:51	 1	1	url	 ATM	 ATM
+18	S9-018	Garet Newell	 Talk (About experiences with the previous ATM + balance of the head)	00:10:47	 1	1	url	 Talk	 Talk
+19	S9-019	Garet Newell	 ATM (Rolling to LOF while reaching (for imaginary object): Baby rolling)	00:25:20	 1	1	url	 ATM	 ATM
+20	S9-020	Garet Newell	 ATM (Extensors LOF, flex/extend ankle, press opposite hand to 
+increase rotation, AH 06/11/80) + Talk	00:31:52	 1	1	url	 ATM	 ATM
+21	S9-021	Garet Newell	 ATM (Preparation for LOF by LOB and lifting arm/shoulder & rolling head)	00:50:59	 2	1	url	 ATM	 ATM
+22	S9-022	Garet Newell	 Talk (Q/a)	00:22:02	 2	1	url	 Talk	 Talk
+23	S9-023	Garet Newell	 ATM (Extensors, 1 (with observations before and after), AH 06/11/80) + 
+Group Work (Observe different people LOF)	00:31:21	 2	1	url	 ATM	 ATM
+24	S9-024	Garet Newell	 Group Work (Observation with dowel)	00:05:57	 2	1	url	 Group	 Group
+25	S9-025	Garet Newell	 ATM (Minimal Eye Movements, 1, AH 06/12/80)	00:42:28	 2	1	url	 ATM	 ATM
+26	S9-026	Garet Newell	 Talk (About experiences with previous ATM)	00:12:36	 2	1	url	 Talk	 Talk
+27	S9-027	Garet Newell	 ATM (Minimal Eye Movements, 2, AH 06/12/80)	00:53:15	 2	1	url	 ATM	 ATM
+28	S9-028	Garet Newell	 Talk	00:10:33	 2	1	url	Talk	Talk
+29	S9-029	Garet Newell	 ATM (Extensor lesson, 2, AH 06/11/80)	00:32:30	 2	1	url	 ATM	 ATM
+30	S9-030	Garet Newell	 ATM (Rolling from LORS to LOB, AH 06/13/80) + Group Work	00:27:34	 2	1	url	 ATM	 ATM
+31	S9-031	Garet Newell	 ATM (Rolling with entire self, AH 07/16/80)	00:31:17	 2	1	url	 ATM	 ATM
+32	S9-032	Garet Newell	 FI Pract. (LOB, making partner comfortable)	00:05:00	 2	1	url	 FI	 FI
+33	S9-033	Garet Newell	 ATM (LOB, come & roll to side saddle sitting, private library)	00:27:30	 2	1	url	 ATM	 ATM
+34	S9-034	Garet Newell	 ATM (Seated and twist left, 1, AH 06/17/80)	00:29:23	 2	1	url	 ATM	 ATM
+35	S9-035	Garet Newell	 FI Pract. (Supporting person in LOF)	00:12:06	 2	1	url	 FI	 FI
+36	S9-036	Garet Newell	 ATM (LOS, elbow & knee together/ apart to LOB, private library)	00:31:50	 2	1	url	 ATM	 ATM
+37	S9-037	Garet Newell	 Talk (Introduction)	00:02:40	 3	1	url	 Talk	 Talk
+38	S9-038	Garet Newell	 ATM (LOB, tilt legs; Sit, tilt legs & warm up for side saddle sitting, private library)	00:52:53	 3	1	url	 ATM	 ATM
+39	S9-039	Garet Newell	 ATM (Seated and twist left, 1, AH 06/17/80)	00:29:12	 3	1	url	 ATM	 ATM
+40	S9-040	Garet Newell	 Talk (An overview of the ATM lessons in the first 8 days of the training)	00:16:02	 3	1	url	 Talk	 Talk
+41	S9-041	Garet Newell	 ATM (Seated and twist left, 1; in the imagination Seated and twist left, 2, AH 06/17/80)	00:39:34	 3	1	url	 ATM	 ATM
+42	S9-042	Garet Newell	 ATM (Four points personal, 1, AH 06/18/80)	00:21:23	 3	1	url	 ATM	 ATM
+43	S9-043	Garet Newell	 Talk (Q/a)	00:06:36	 3	1	url	 Talk	 Talk
+44	S9-044	Garet Newell	 ATM (Warm up with tilt legs to side saddle; Swivel on the buttocks, AH 06/16/80)	00:58:34	 3	1	url	 ATM	 ATM
+45	S9-045	Garet Newell	 Talk (Sharing of ideas and step-by step go through of the ATM)	00:14:17	 3	1	url	 Talk	 Talk
+46	S9-046	Garet Newell	 Talk (About being tired during the training and about pain)	00:10:53	 3	1	url	 Talk	 Talk
+47	S9-047	Garet Newell	 ATM (Manipulating head with hand, AH 06/18/80)	01:05:55	 3	1	url	 ATM	 ATM
+48	S9-048	Garet Newell	 FI Pract. (LOF, shoulder blades, posterior processes of thoracic spine exploration)	00:13:59	 3	1	url	 FI	 FI
+49	S9-049	Garet Newell	 FI Pract. (Guided self-organization with FI)	00:10:44	 3	1	url	 FI	 FI
+50	S9-050	Garet Newell	 ATM (Lying on the stomach, 1, AH 06/19/80)	00:34:50	 3	1	url	 ATM	 ATM
+51	S9-051	Garet Newell	 Group Work (Observation: LOB, then LOF, organization in LOF)	00:02:33	 3	1	url	 Group	 Group
+52	S9-052	Garet Newell	 ATM (LOF, tilt legs, head turned to the right, PL)	00:32:53	 3	1	url	 ATM	 ATM
+53	S9-053	Garet Newell	 FI Pract. (LOB, trace under shoulders & collarbone;
+ LOF, locate posterior processes & shoulder blades)	00:19:01	 3	1	url	 FI	 FI
+54	S9-054	Garet Newell	 ATM (Four Points, 3)	00:21:33	 3	1	url	 ATM	 ATM
+55	S9-055	Garet Newell	 ATM (LOF, roll head on cheek & change over head by rolling pelvis to begin crawling, PL)	00:48:48	 3	1	url	 ATM	 ATM
+56	S9-056	Garet Newell	 ATM (Four Points, 4) <recording stops after 8 minutes>	00:08:11	 3	1	url	 ATM	 ATM
+57	S9-057	Garet Newell	 ATM (Four Points, (part 3), finale part 1, AH 06/24/80)	00:16:12	 3	1	url	 ATM	 ATM
+58	S9-058	Garet Newell	 ATM (Rolling the head) + Guided FI Pract. (Rolling the head)	00:37:17	 3	1	url	 ATM	 ATM
+59	S9-059	Garet Newell	 Talk (Structure of an ATM)	00:19:39	 3	1	url	 Talk	 Talk
+60	S9-060	Garet Newell	 ATM (Sucking- interlacing fingers and toes, AH 06/25/80)	00:51:57	 3	1	url	 ATM	 ATM
+61	S9-061	Garet Newell	 FI Pract. Guided (Guess to which side partners head would roll more easily)	00:22:46	 3	1	url	 FI	 FI
+62	S9-062	Garet Newell	 ATM (Thinking and breathing, ATM book #12)	00:47:55	 3	1	url	 ATM	 ATM
+63	S9-063	Ned Dwelle	 Talk (Neds introduction)	00:09:59	 4	1	url	 Talk	 Talk
+64	S9-064	Ned Dwelle	   ATM (LOB, hold leg with hand & slide hands down lower leg towards ankle)	01:14:20	 4	1	url	   A	   A
+65	S9-065	Ned Dwelle	 Talk (Sharing)	00:23:33	 4	1	url	 Talk	 Talk
+66	S9-066	Ned Dwelle	 ATM (Themes from Lying on stomach)	00:26:46	 4	1	url	 ATM	 ATM
+67	S9-067	Ned Dwelle	 Group Work (Sharing in groups: Challenges of LOF)	00:24:02	 4	1	url	 Group	 Group
+68	S9-068	Ned Dwelle	 ATM (Wriggling the legs, Gaby Yarons German ATMs)	00:42:22	 4	1	url	 ATM	 ATM
+69	S9-069	Ned Dwelle	 Talk (The neutral range of movement)	00:09:52	 4	1	url	 Talk	 Talk
+70	S9-070	Garet Newell	 ATM (Lying on stomach, 1)	00:58:32	 4	1	url	 ATM	 ATM
+71	S9-071	Ned Dwelle	 FI Pract. (With skeleton: Touching the ankles)	00:30:38	 4	1	url	 FI	 FI
+72	S9-072	Ned Dwelle	 Guided FI Pract. (Touching the ankles)	00:19:33	 4	1	url	 Guided	 Guided
+73	S9-073	Ned Dwelle	 FI Pract. (Refinements) + Guided FI Pract. (Touching the ankles, round 2)	00:31:49	 4	1	url	 FI	 FI
+74	S9-074	Ned Dwelle	 ATM (Tilting legs to the left, lying on stomach, AH 06/24/80)	00:50:59	 4	1	url	 ATM	 ATM
+75	S9-075	Ned Dwelle	 Epilogue to day 2 of the segment	00:00:57	 4	1	url	 Epilogue	 Epilogue
+76	S9-076	Ned Dwelle	 Talk	00:09:53	 4	1	url	Talk	Talk
+77	S9-077	Ned Dwelle	 ATM (Lying on stomach, 2 cont'd, AH 06/23/80)	01:06:50	 4	1	url	 ATM	 ATM
+78	S9-078	Garet Newell	 FI Pract. (LOF, find posterior processes and groove with head turned to preferable side)	00:17:14	 4	1	url	 FI	 FI
+79	S9-079	Ned Dwelle	 Talk	00:08:24	 4	1	url	Talk	Talk
+80	S9-080	Ned Dwelle	 ATM (Rolling head and getting up, 1, AH 06/25/80)	01:23:02	 4	1	url	 ATM	 ATM
+81	S9-081	Ned Dwelle	 Talk	00:27:48	 4	1	url	Talk	Talk
+82	S9-082	Ned Dwelle	 Preparation for Holding chin and rolling)	00:50:04	 4	1	url	 Preparation	 Preparation
+83	S9-083	Ned Dwelle	 Group Work (Exploration: stand, lift right then left arm; share experiences of differences)	00:05:34	 4	1	url	 Group	 Group
+84	S9-084	Ned Dwelle	 ATM (Holding chin & rolling, AH 06/27/80)	00:27:02	 4	1	url	 ATM	 ATM
+85	S9-085	Ned Dwelle	 Talk (Feedback from previous ATM)	00:11:36	 4	1	url	 Talk	 Talk
+86	S9-086	Ned Dwelle	   FI Pract. (Explore occipital ridge whilst partner turns head to one side, then rolling head)	00:30:00	 4	1	url	   	   
+87	S9-087	Ned Dwelle	 ATM (Holding chin & rolling, 1)	00:42:12	 4	1	url	 ATM	 ATM
+88	S9-088	Ned Dwelle	 ATM (Holding chin & rolling cont'd)	01:23:29	 4	1	url	 ATM	 ATM
+89	S9-089	Ned Dwelle	 Talk (About pain and doing too much)	00:36:49	 4	1	url	 Talk	 Talk
+90	S9-090	Ned Dwelle	 Talk (About vision)	00:32:26	 4	1	url	 Talk	 Talk
+91	S9-091	Ned Dwelle	 FI Pract. (Guided exploration: Vision/ pathway of eyes whilst head turning)	00:12:30	 4	1	url	 FI	 FI
+92	S9-092	Ned Dwelle	 Talk (Habits and the non-habitual)	00:13:32	 4	1	url	 Talk	 Talk
+93	S9-093	Ned Dwelle	 ATM (Rolling to the right & left, 2, AH 06/30/80)	00:59:40	 4	1	url	 ATM	 ATM
+94	S9-094	Ned Dwelle	 FI Pract. (With skeleton: foot exploration)	00:44:53	 4	1	url	 FI	 FI
+95	S9-095	Ned Dwelle	 Guided FI Pract.	00:57:41	 4	1	url	 Guided	 Guided
+96	S9-096	Ned Dwelle	 Talk (Goodbyes)	00:05:20	 4	1	url	 Talk	 Talk
+97	S9-097	Ned Dwelle	 ATM (Tilting the knees, 1, AH 07/01/80)	00:42:38	 4	1	url	 ATM	 ATM
+98	S9-098	Garet Newell	 ATM (Tilting the knees, 1, AH 07/01/80)	00:47:50	 5	1	url	 ATM	 ATM
+99	S9-099	Garet Newell	 Talk (Experiences)	00:05:21	 5	1	url	 Talk	 Talk
+100	S9-100	Garet Newell	 ATM (Tilting the knees, 2, AH 07/01/80)	00:48:01	 5	1	url	 ATM	 ATM
+101	S9-101	Garet Newell	 FI Pract. (Guided FI/ATM with partners: LOB, tilt legs & triangle arms)	00:22:54	 5	1	url	 FI	 FI
+102	S9-102	Garet Newell	 ATM (Crossing the knees, 1 & 2, AH 07/02/80)	00:49:35	 5	1	url	 ATM	 ATM
+103	S9-103	Garet Newell	 FI Pract. (LOB, with roller behind knees, roll head, lift foot & rotate leg from above ankle)	00:15:35	 5	1	url	 FI	 FI
+104	S9-104	Garet Newell	 ATM (Coordination of the Flexor Muscles and of the Extensors, ATM Book #5)	00:30:36	 5	1	url	 ATM	 ATM
+105	S9-105	Garet Newell	 Group Work (Observation: LOB, Shoulder girdle/blades and arms)	00:27:03	 5	1	url	 Group	 Group
+106	S9-106	Garet Newell	 ATM (Rolling the fists, 1, AH 07/02/80)	00:45:40	 5	1	url	 ATM	 ATM
+107	S9-107	Garet Newell	 FI Pract. (Guided: LOB, explore the structures of the shoulder girdle)	00:26:21	 5	1	url	 FI	 FI
+108	S9-108	Garet Newell	 ATM (Rolling the fists, 2, AH 07/02/80)	01:07:44	 5	1	url	 ATM	 ATM
+109	S9-109	Garet Newell	 FI Demo (LOB, how to place hands beneath shoulder blades and move upwards)	00:09:13	 5	1	url	 FI	 FI
+110	S9-110	Garet Newell	 ATM (Diagonal pressing, AH 07/03/80)	00:29:57	 5	1	url	 ATM	 ATM
+111	S9-111	Garet Newell	 Talk	00:02:06	 5	1	url	Talk	Talk
+112	S9-112	Garet Newell	 ATM (Diagonal pressing and lifting, AH 07/03/80)	00:46:06	 5	1	url	 ATM	 ATM
+113	S9-113	Garet Newell	 FI Pract. (LOF & head turned & explore structures of & b/w shoulder & spine)	00:10:19	 5	1	url	 FI	 FI
+114	S9-114	Garet Newell	 ATM (Rolling from sitting, 1, AH 07/07/80)	00:33:45	 5	1	url	 ATM	 ATM
+115	S9-115	Garet Newell	 ATM (Rolling the pelvis, 1, AH 07/07/80)	00:41:56	 5	1	url	 ATM	 ATM
+116	S9-116	Garet Newell	 FI Pract. (LOB, then LORS/LS, explore structures of shoulder girdle)	00:12:18	 5	1	url	 FI	 FI
+117	S9-117	Garet Newell	 ATM (Rolling the pelvis, 3, AH 07/08/80)	00:28:28	 5	1	url	 ATM	 ATM
+118	S9-118	Garet Newell	 ATM (Rolling the pelvis, review of parts 1 & 3, AH 07/07/80 & AH 07/08/80)	00:49:10	 6	1	url	 ATM	 ATM
+119	S9-119	Garet Newell	 ATM (Rolling the pelvis, 4- LOB, with soles touching, AH 07/0980)	00:37:42	 6	1	url	 ATM	 ATM
+120	S9-120	Garet Newell	 FI Pract. (Making someone comfortable in LOS)	00:01:42	 6	1	url	 FI	 FI
+121	S9-121	Garet Newell	 FI Pract. (LORS/LS, structures of the pelvis: greater trochanter, crest of iliac to ASIS)	00:10:09	 6	1	url	 FI	 FI
+122	S9-122	Garet Newell	 Group Work (Observation: leaning on elbows with soles of feet touching)	00:08:19	 6	1	url	 Group	 Group
+123	S9-123	Garet Newell	 ATM (Rolling the pelvis, 5, AH 07/09/80)	00:32:16	 6	1	url	 ATM	 ATM
+124	S9-124	Garet Newell	 ATM (Rolling the pelvis, 6, AH 07/09/80)	00:56:27	 6	1	url	 ATM	 ATM
+125	S9-125	Garet Newell	 FI Pract. (LORS/ LS, structures of pelvis; greater trochanter and humerus head & movement)	00:31:58	 6	1	url	 FI	 FI
+126	S9-126	Garet Newell	 ATM (LOB, roll to side saddle sitting; in imagination on second side)	00:35:21	 6	1	url	 ATM	 ATM
+127	S9-127	Craig Rebuck	 ATM (Coordination of the flexor muscles and of the extensors, ATM Book #5)	00:47:53	 6	1	url	 ATM	 ATM
+128	S9-128	Garet Newell	 ATM (Rolling the pelvis, 6 continues) + Group Work (From Day 1 & observe sitting again)	00:55:36	 6	1	url	 ATM	 ATM
+129	S9-129	Garet Newell	 ATM (Circling right arm on floor, AH 07/10/80)	00:45:55	 6	1	url	 ATM	 ATM
+130	S9-130	Garet Newell	 ATM (Circling left arm on floor and Turning the bucket, AH 07/10/80)	00:46:59	 6	1	url	 ATM	 ATM
+131	S9-131	Garet Newell	 FI Pract. (LOB, roll head to the right; place hands under shoulders; take left hand away, 
+roll head right while right hand remains under shoulder; 
+take right hand away, roll head to the right again, does it roll further?)	00:15:52	 6	1	url	 FI	 FI
+132	S9-132	Garet Newell	 ATM (Right index finger holding big toe, 1, AH 07/11/80)	00:40:09	 6	1	url	 ATM	 ATM
+133	S9-133	Garet Newell	 ATM (Right index finger holding big toe, 1b & 2)	00:54:09	 6	1	url	 ATM	 ATM
+134	S9-134	Garet Newell	 Talk (About ATM practice teaching and Lesson 5 improvements)	00:35:41	 6	1	url	 Talk	 Talk
+135	S9-135	Garet Newell	 FI Pract. (LOB, roll head, lift & rotate leg on side head rolls easiest & knee in touch with roller)	00:11:07	 6	1	url	 FI	 FI
+136	S9-136	Garet Newell	 ATM (Right index finger holding big toe, cont'd)	00:11:26	 6	1	url	 ATM	 ATM
+143	S9-143	Mara della Pergola	 Group Work (Observation: Stand, lift one arm, then the other)	00:23:45	 8	1	url	 Group	 Group
+144	S9-144	Mara della Pergola	 ATM (LOS: movements of shoulder and arm, forwards and backwards)	00:42:16	 8	1	url	 ATM	 ATM
+145	S9-145	Mara della Pergola	 ATM (Head sinking between the shoulders, AH 07/21/80)	00:53:40	 8	1	url	 ATM	 ATM
+146	S9-146	Mara della Pergola	 FI Pract. (LOS, mvmnts of shoulder/arm; finding preferences & differentiating)	00:09:35	 8	1	url	 FI	 FI
+147	S9-147	Mara della Pergola	 ATM (Head and knee under the gap, AH 07/21/80)	00:28:20	 8	1	url	 ATM	 ATM
+148	S9-148	Mara della Pergola	 Talk	00:02:15	 8	1	url	Talk	Talk
+149	S9-149	Mara della Pergola	 ATM (Head and knee under the gap, cont'd) + Talk (Doing movements in the imagination)	01:11:18	 8	1	url	 ATM	 ATM
+150	S9-150	Mara della Pergola	 ATM (LORS/LS, variations of movements of the shoulder, then pelvis)	00:53:49	 8	1	url	 ATM	 ATM
+151	S9-151	Mara della Pergola	 FI Pract. (Movements of the shoulder & arm review; add differentiate shoulder from ribs)	00:07:44	 8	1	url	 FI	 FI
+152	S9-152	Mara della Pergola	 ATM (Movements of the jaw, private library)	00:34:07	 8	1	url	 ATM	 ATM
+153	S9-153	Maria and Caroline	 ATM (LORS/LS, movements of the shoulder and pelvis)	01:05:36	 8	1	url	 ATM	 ATM
+154	S9-154	Mara della Pergola	 ATM (Movements of the jaw continues)	01:07:13	 8	1	url	 ATM	 ATM
+155	S9-155	Mara della Pergola	 ATM (Movements of the jaw continues)	00:15:40	 8	1	url	 ATM	 ATM
+156	S9-156	Mara della Pergola	 ATM (Through gap on stomach and back, 1, AH 07/22/80)	00:39:22	 8	1	url	 ATM	 ATM
+157	S9-157	Mara della Pergola	 Talk	00:04:09	 8	1	url	Talk	Talk
+158	S9-158	Mara della Pergola	 ATM (Through gap on stomach and back, 2, AH 07/22/80)	01:18:35	 8	1	url	 ATM	 ATM
+159	S9-159	Mara della Pergola	 ATM (Explorations in standing) + 
+ATM (Crossing knees - crawling, 1, AH 07/18/80)	00:52:40	 8	1	url	 ATM	 ATM
+164	S9-164	Garet Newell	 ATM (Integrating arms- Crossing arms, AH 07/16/80)	00:31:46	 9	2	url	 ATM	 ATM
+165	S9-165	Garet Newell	 ATM (Remainder of integrating arms, AH 07/16/80)	00:54:19	 9	2	url	 ATM	 ATM
+166	S9-166	Garet Newell	 ATM (Moving elbow into gap and index finger holding big toe, AH 07/16/80)	00:43:22	 9	2	url	 ATM	 ATM
+167	S9-167	Garet Newell	 Talk (Organizational matters)	00:01:52	 9	2	url	 Talk	 Talk
+168	S9-168	Garet Newell	 FI Pract. (LORS/LS, moving shoulder downwards & pelvis upwards while following posterior process movement in thoracic & lumbar area)	00:11:52	 9	2	url	 FI	 FI
+169	S9-169	Garet Newell	 FI Pract. (Practitioner self-organizing experiment)	00:22:48	 9	2	url	 FI	 FI
+170	S9-170	Garet Newell	 ATM (Symmetry, AH 07/17/80)	00:33:26	 9	2	url	 ATM	 ATM
+171	S9-171	Garet Newell	 Talk (Shoulder-hip cardinal directions- ATM teaching)	00:52:36	 9	2	url	 Talk	 Talk
+172	S9-172	Garet Newell	 FI Pract. (LORS/LS, repeat from previous day and with same partner;
+ add: lean into the side of the posterior processes)	00:10:12	 9	2	url	 FI	 FI
+173	S9-173	Garet Newell	 ATM (Review of Symmetry and Rotation of head and teleceptors)	01:15:42	 9	2	url	 ATM	 ATM
+174	S9-174	Garet Newell	 ATM (Review of Mobility of head-body tonus)	00:39:35	 9	2	url	 ATM	 ATM
+175	S9-175	Garet Newell	 Talk (Introduction to the segment)	00:04:08	 10	2	url	 Talk	 Talk
+176	S9-176	Garet Newell	 ATM (Previous segment ATM review) + ATM (Mobility of head-body tonus, 2, AH 97/21/80)	01:06:24	 10	2	url	 ATM	 ATM
+177	S9-177	Garet Newell	 LAB (Partner exploration: observing calluses on the foot; crooked toes)	00:02:51	 10	2	url	 LAB	 LAB
+178	S9-178	Garet Newell	 Guided FI Pract. (LOB, elongating toes)	00:24:51	 10	2	url	 Guided	 Guided
+179	S9-179	Jacquie Brazier	 ATM (Movement of Eyes Organizes Movement of Body, ATM Book #10)	00:51:38	 10	2	url	 ATM	 ATM
+180	S9-180	Garet Newell	 Talk (About teleceptors and about experiences from yesterday)	00:15:21	 10	2	url	 Talk	 Talk
+181	S9-181	Garet Newell	 ATM (Tonic effect of head, rotating with one hand, AH 07/21/80)	00:43:02	 10	2	url	 ATM	 ATM
+182	S9-182	Garet Newell	 FI Pract. (LOS- find posterior processes & lower groove)	00:20:12	 10	2	url	 FI	 FI
+183	S9-183	Garet Newell	 ATM (Lower jaw- lower faces, AH 07/22/80) <end is missing>	00:27:32	 10	2	url	 ATM	 ATM
+184	S9-184	Garet Newell	 ATM (Lower jaw, lower jaw and faces, AH 07/22/80)	00:58:38	 10	2	url	 ATM	 ATM
+185	S9-185	Garet Newell	 ATM (On knees, flexing pelvis, 1, AH 07/25/80)	00:51:48	 10	2	url	 ATM	 ATM
+186	S9-186	Garet Newell	 Talk (About yesterday's FI Pract.) + FI Pract. (LOS- lift from underneath posterior processes)	00:19:26	 10	2	url	 Talk	 Talk
+187	S9-187	Garet Newell	 Talk (About teaching ATM and about ATM Book #10)	00:26:56	 10	2	url	 Talk	 Talk
+188	S9-188	Garet Newell	 ATM (On knees, flexing pelvis, 2, AH 07/25/80)	00:47:23	 10	2	url	 ATM	 ATM
+189	S9-189	Garet Newell	 FI Pract. (LOS- lift foot to feel rotation in hip joint & lift underneath posterior processes)	00:14:32	 10	2	url	 FI	 FI
+190	S9-190	Garet Newell	 ATM (Opening the legs, 1, AH 07/28/80)	00:13:31	 10	2	url	 ATM	 ATM
+191	S9-191	Garet Newell	 ATM (Opening the legs, 1, Garets version of AH 07/28/80)	00:47:03	 11	2	url	 ATM	 ATM
+192	S9-192	Garet Newell	 ATM (Opening the legs, other side and start of part 2)	00:53:10	 11	2	url	 ATM	 ATM
+193	S9-193	Garet Newell	 FI Pract. (LOB- Explore cardinal directions of legs)	00:21:52	 11	2	url	 FI	 FI
+194	S9-194	Garet Newell	 Talk (Experiences with yesterday's class)	00:09:26	 11	2	url	 Talk	 Talk
+195	S9-195	Garet Newell	 ATM (Scanning Dimensions, AH 07/30/80)	00:26:35	 11	2	url	 ATM	 ATM
+196	S9-196	Garet Newell	 FI Pract. (LOB- lifting arm- primitive pathway)	00:13:42	 11	2	url	 FI	 FI
+197	S9-197	Garet Newell	 ATM (Opening the legs, 2, AH 07/28/80)	00:50:47	 11	2	url	 ATM	 ATM
+198	S9-198	Garet Newell	 ATM (Voice, combination of AH 07/25/80 and AH 07/28/80 and AH 07/29/80)	00:52:37	 11	2	url	 ATM	 ATM
+199	S9-199	Garet Newell	 FI Pract. (LOB- Lift arm to above head- feel/ visualize connection to shoulder blade)	00:16:44	 11	2	url	 FI	 FI
+200	S9-200	Garet Newell	 ATM (Voice cont'd)	00:36:52	 11	2	url	 ATM	 ATM
+201	S9-201	Garet Newell	 ATM (Differentiation of Parts & Functions in Breathing, ATM Book #4)	00:56:40	 11	2	url	 ATM	 ATM
+202	S9-202	Garet Newell	 ATM (Hand below kneecap, AH 07/30/80)	00:51:57	 11	2	url	 ATM	 ATM
+203	S9-203	Garet Newell	 FI Pract. (LOB- Arm overhead as before, feel 'sliding' of shoulder blade)	00:14:20	 11	2	url	 FI	 FI
+204	S9-204	Garet Newell	 ATM (Mobility of the hip, 1 & 2, AH 31/07/80)
+ <mic was on mute for about 9min. at the end of the lesson>	00:32:33	 11	2	url	 ATM	 ATM
+205	S9-205	Garet Newell	 ATM (Mobility of the Hip- Hand under Kneecap, 1)	00:43:43	 11	2	url	 ATM	 ATM
+206	S9-206	Garet Newell	 ATM (Mobility of the Hip- Hand under Kneecap, 2)	00:37:38	 11	2	url	 ATM	 ATM
+207	S9-207	Garet Newell	 ATM ((Sitting up) with hands under kneecaps, 1 & 2, AH 07/31/80 and AH 08/01/80)	00:59:00	 11	2	url	 ATM	 ATM
+208	S9-208	Garet Newell	 FI Pract. (LOS- Lift leg, lift foot heel & ball, lift lower leg, ATM Mobility of hip)	00:12:23	 11	2	url	 FI	 FI
+209	S9-209	Garet Newell	 ATM (Rolling to sit, AH 08/03/80)	00:58:39	 11	2	url	 ATM	 ATM
+210	S9-210	Garet Newell	 FI Pract. (LOB, movement of shoulder blade & cardinal directions of hip joint)	00:13:27	 11	2	url	 FI	 FI
+211	S9-211	Garet Newell	 Talk	00:03:22	 11	2	url	Talk	Talk
+212	S9-212	Garet Newell	 ATM (Improving mobility of the chest, SF Eve. Class, 1976, vol. one, #9)	00:45:19	 11	2	url	 ATM	 ATM
+213	S9-213	Roger Russell	 Talk (Introduction to the segment)	00:09:48	 12	2	url	 Talk	 Talk
+214	S9-214	Roger Russell	 ATM (Hand movement differentiation, Rogers version of AH 08/04/80)	01:11:50	 12	2	url	 ATM	 ATM
+215	S9-215	Roger Russell	 Talk (Introduction to the film of Florians (baby) development) +
+ Video (Florian learning to roll over etc.)	00:16:30	 12	2	url	 Talk	 Talk
+216	S9-216	Roger Russell	 ATM (LOB, 4 different ways of crossing arms and interlacing fingers)	00:23:47	 12	2	url	 ATM	 ATM
+217	S9-217	Roger Russell	 Talk (Basic neurology)	01:12:00	 12	2	url	 Talk	 Talk
+218	S9-218	Roger Russell	 FI Pract. (LOB, arm above head through primitive path; placing hands on ASIS)	00:19:14	 12	2	url	 FI	 FI
+219	S9-219	Roger Russell	 ATM (Playing the fiddle with the elbows)	01:08:20	 12	2	url	 ATM	 ATM
+220	S9-220	Roger Russell	 Talk (Righting reflex and noticing it the moment the heel touches the floor when taking a step forward) + ATM (Playing the fiddle continues; explore crawling)	00:04:07	 12	2	url	 Talk	 Talk
+221	S9-221	Roger Russell	 Talk (Righting reflex and noticing it the moment the heel touches the floor when taking a step forward) + ATM (Playing the fiddle continues; explore crawling)	01:02:37	 12	2	url	 Talk	 Talk
+221	S9-292	Garet Newell	 ATM (Bending sideways on the back, AY#103)	00:51:58	 16	2	url	 ATM	 ATM
+222	S9-222	Roger Russell	 Talk (Righting reflex stimulated by the floor)	00:06:20	 12	2	url	 Talk	 Talk
+223	S9-223	Roger Russell	 ATM (LOB with knees bent)	00:57:19	 12	2	url	 ATM	 ATM
+224	S9-224	Roger Russell	 Talk (Personal space and approaching another with an open/ closed attitude) + Demo	00:47:01	 12	2	url	 Talk	 Talk
+225	S9-225	Roger Russell	 Talk (Personal space cont'd) + LAB	00:19:01	 12	2	url	 Talk	 Talk
+226	S9-226	Roger Russell	 ATM (LOB with knees bent cont'd)	00:58:49	 12	2	url	 ATM	 ATM
+227	S9-227	Roger Russell	 Talk (Walking from a movement science perspective; "coordination muscles")	00:12:10	 12	2	url	 Talk	 Talk
+228	S9-228	Roger Russell	 ATM (LORS/LS, playing the fiddle cont'd)	00:55:02	 12	2	url	 ATM	 ATM
+229	S9-229	Roger Russell	 FI Pract. (LOB, connect through foot; connect through scapula to ribs/ thoracic spine)	00:37:51	 12	2	url	 FI	 FI
+230	S9-230	Roger Russell	 FI Pract. (Return to FI with groups of 3 from previous days and change roles)	00:05:51	 12	2	url	 FI	 FI
+231	S9-231	Roger Russell	 Talk (About the brain and the nervous system and how re-wiring takes place)	00:56:09	 12	2	url	 Talk	 Talk
+232	S9-232	Roger Russell	 Talk (Q/ a)	00:08:46	 12	2	url	 Talk	 Talk
+233	S9-233	Garet Newell,
+ Roger Russell	 Talk (Feedback on breathing ATMs and the function of breathing)	01:18:41	 12	2	url	 Talk	 Talk
+234	S9-234	Roger Russell	 Talk (Feldenkrais and the brain, copyrights)	00:05:33	 12	2	url	 Talk	 Talk
+235	S9-235	Roger Russell	 ATM (LOB, interlace fingers, slide hands down front of right leg; then in sitting and with variations)	01:00:14	 12	2	url	 ATM	 ATM
+236	S9-236	Roger Russell	 Talk	00:53:11	 12	2	url	Talk	Talk
+237	S9-237	Garet Newell	 ATM (Hand movement differentiation & playing fiddle review, AH 08/04/80)	01:07:45	 13	2	url	 ATM	 ATM
+238	S9-238	Garet Newell	 ATM (Differentiation of arms- sitting (starts in LOB), AH 08/05/80)	00:41:27	 13	2	url	 ATM	 ATM
+239	S9-239	Garet Newell	 Guided FI Pract. (Explore head/ neck structures & spaces; prepare for 'pecking' movement)	00:29:01	 13	2	url	 Guided	 Guided
+240	S9-240	Garet Newell	 ATM (Differentiation of arms- sitting, review) + ATM (Differentiation of arms- lying, 1)	00:40:36	 13	2	url	 ATM	 ATM
+241	S9-241	Garet Newell	 Guided FI Pract. (LOB, repeat previous day; add: movements of the jaw)	00:24:18	 13	2	url	 Guided	 Guided
+242	S9-242	Garet Newell	 ATM (Differentiation of arms- lying, 1)	00:42:16	 13	2	url	 ATM	 ATM
+243	S9-243	Garet Newell	 Talk (Sharing experiences)	00:11:41	 13	2	url	 Talk	 Talk
+244	S9-244	Garet Newell	 ATM (Differentiation of arms- lying, 2, AH 08/05/80)	01:03:06	 13	2	url	 ATM	 ATM
+245	S9-245	Garet Newell	 Guided FI Pract. (Lifting the head with different self-organizations)	00:52:27	 13	2	url	 Guided	 Guided
+246	S9-246	Garet Newell	 FI Pract. (LOB, lift head, soften chest- encourage sternum rotation, lift head again)	00:11:57	 13	2	url	 FI	 FI
+247	S9-247	Garet Newell	 ATM (On the side; circles with head and leg, AY#30)	00:41:58	 13	2	url	 ATM	 ATM
+248	S9-248	Garet Newell	 ATM (Pelvic lift, arms right & left, AH 08/06/80) + ATM (Right side, leg and arm to ceiling)	01:06:13	 13	2	url	 ATM	 ATM
+249	S9-249	Garet Newell	 FI Pract. (LOB, lift head; add: cardinal directions of leg in hip joint & 
+press down from thigh into heel, lift head again)	00:08:36	 13	2	url	 FI	 FI
+250	S9-250	Garet Newell	 ATM (Right side leg and arm to ceiling, AH 08/06/80)	00:35:01	 13	2	url	 ATM	 ATM
+251	S9-251	Garet Newell	 ATM (Full circles, holding the legs, AH 08/06/80)	00:40:40	 13	2	url	 ATM	 ATM
+252	S9-252	Garet Newell	 FI Pract. (LOB, lift head, review; add: connect hand and leg on one side)	00:17:02	 13	2	url	 FI	 FI
+253	S9-253	Garet Newell	 ATM (Translation of FI from the 5 days to an ATM)	00:26:08	 13	2	url	 ATM	 ATM
+254	S9-254	Garet Newell	 ATM (On back, lifting hip to lengthen opposite arm, SF Eve. Class 1977, Gaby Yaron, #11)	00:41:59	 13	2	url	 ATM	 ATM
+255	S9-255	Garet Newell	 FI Pract. (Following first few movements of above ATM)	00:11:56	 13	2	url	 FI	 FI
+256	S9-256	Garet Newell	 Talk (About previous FI Pract.)	00:03:30	 13	2	url	 Talk	 Talk
+257	S9-257	Garet Newell	 ATM (LOB, bend leg and press with foot to roll onto side, then to LOF)	00:34:51	 13	2	url	 ATM	 ATM
+258	S9-258	Ulrike Apel	 Talk (Short Introduction)	00:01:20	 14	2	url	 Talk	 Talk
+259	S9-259	Ulrike Apel	 ATM (Flexing right palm, AH 06/08/81)	01:00:37	 14	2	url	 ATM	 ATM
+260	S9-260	Ulrike Apel	 Talk (About the previous ATM)	00:13:04	 14	2	url	 Talk	 Talk
+261	S9-261	Ulrike Apel	 ATM (Flexing right palm, cont'd, AH 06/08/81)	00:44:19	 14	2	url	 ATM	 ATM
+262	S9-262	Ulrike Apel	 ATM (Flexing of right palm while rolling side to back, AH 06/09/81)	00:56:43	 14	2	url	 ATM	 ATM
+263	S9-263	Garet Newell,
+ Ulrike Apel	 FI Pract. (Review of strategies in the position of LORS/LS) + 
+FI Pract. (LOLS, lift leg, let knee, then foot 'dip' down, then alternate)	01:01:08	 14	2	url	 FI	 FI
+264	S9-264	Ulrike Apel	 ATM (Bell hand in air; prone to standing while flexing right hand, AH 06/09/81)	00:53:13	 14	2	url	 ATM	 ATM
+265	S9-265	Ulrike Apel	 Talk (About anatomy, physiology and function of flexors and extensors)	00:13:58	 14	2	url	 Talk	 Talk
+266	S9-266	Ulrike Apel	 ATM (Flexing hands and feet together, AH 06/10/81)	00:15:14	 14	2	url	 ATM	 ATM
+267	S9-267	Ulrike Apel	 Talk (Laughing)	00:07:13	 14	2	url	 Talk	 Talk
+268	S9-268	Ulrike Apel	 ATM	00:31:35	 14	2	url	ATM	ATM
+269	S9-269	Ulrike Apel	 FI Pract. (Sitting, explore foot & lower leg 
+(prep. for lower leg on roller to find & move fibula))	00:16:37	 14	2	url	 FI	 FI
+270	S9-270	Ulrike Apel	 ATM (Swimming Crawl, AH 06/10/81)	00:41:15	 14	2	url	 ATM	 ATM
+271	S9-271	Ulrike Apel	 Talk	00:02:21	 14	2	url	Talk	Talk
+272	S9-272	Ulrike Apel	 ATM	00:40:15	 14	2	url	ATM	ATM
+273	S9-273	Ulrike Apel	 ATM (Swimming crawl and bell hand, think toes, AH 06/11/81)	01:05:28	 14	2	url	 ATM	 ATM
+274	S9-274	Ulrike Apel	 FI Pract. (LOLS/RS, lift arm to shoulder level, elongate, feel connection to back;
+´encourage thoracic vertebrae to rotate)	00:38:43	 14	2	url	 FI	 FI
+275	S9-275	Ulrike Apel	 FI Pract. (Mini-FI in LORS/LS)	00:23:03	 14	2	url	 FI	 FI
+276	S9-276	Ulrike Apel	 Guided FI Pract. (Mini-FI in LORS/LS)	00:27:41	 14	2	url	 Guided	 Guided
+277	S9-277	Ulrike Apel	 ATM (Interlacing fingers and toes to lift foot, bell hand continues, AH 06/11/81)	00:29:37	 14	2	url	 ATM	 ATM
+278	S9-278	Meriel and Christopher	 ATM (Rolling the fists)	00:37:21	 14	2	url	 ATM	 ATM
+279	S9-279	Ulrike Apel	 ATM (Shoulder forward, rotate head, AH 06/11/81)	00:37:07	 14	2	url	 ATM	 ATM
+280	S9-280	Ulrike Apel	 ATM (Lengthening arms, Gaby Yaron, Master Class in Alpbach)	00:41:21	 14	2	url	 ATM	 ATM
+280	S9-293	Garet Newell	 ATM (Three ways of rolling (up to and just before actually rolling), AH 06/17/81)	00:23:58	 16	2	url	 ATM	 ATM
+281	S9-281	Garet Newell	 ATM (Interlacing fingers and toes)	00:44:30	 15	2	url	 ATM	 ATM
+282	S9-282	Garet Newell	 ATM (Interlacing fingers and toes, AH 06/15/81)	00:55:24	 15	2	url	 ATM	 ATM
+283	S9-283	Garet Newell	 FI Pract. (Mini-FI #3 for the Open Day: LOB, define, then elongate toes)	00:29:30	 15	2	url	 FI	 FI
+284	S9-284	Garet Newell	 ATM (Interlacing fingers and toes, AH 06/15/81)	00:42:29	 15	2	url	 ATM	 ATM
+285	S9-285	Garet Newell	 ATM (Standing on all four, preparation for judo roll)	00:50:54	 15	2	url	 ATM	 ATM
+285	S9-294	Garet Newell	 ATM (Remainder of Three Ways of Rolling, AH 06/17/81 + AH 06/18/81)	01:06:03	 16	2	url	 ATM	 ATM
+286	S9-286	Garet Newell	 FI Pract. (Review May mini FI: pecking movement; movements of jaw & shoulders)	00:10:50	 15	2	url	 FI	 FI
+287	S9-287	Garet Newell	 ATM (Left side, bringing right foot to left hand, AH 06/16/81)	00:58:54	 15	2	url	 ATM	 ATM
+288	S9-288	Garet Newell	 FI Pract. (Review of mini FI #2: LORS/LS, taught by Ulrike in July segment)	00:22:59	 15	2	url	 FI	 FI
+289	S9-289	Garet Newell,
+ Joan Acton	 Talk + ATM (ATM Book #5)	01:06:29	 15	2	url	 Talk	 Talk
+290	S9-290	Garet Newell	 ATM (Standing on all four, preparation for judo roll continues, AH 06/15/81) + 
+ATM (Left side, bringing right foot to left hand & manipulating head to help, AH 06/15/81)	00:56:53	 15	2	url	 ATM	 ATM
+291	S9-291	Garet Newell	 ATM (Version of 'Left foot to right hand' to even things out)	00:23:05	 15	2	url	 ATM	 ATM
+295	S9-295	Ned Dwelle	 Talk	00:10:00	 16	2	url	Talk	Talk
+296	S9-296	Ned Dwelle	 ATM (LOB, explore cardinal lines; slide head to side; side-bending; add: roll pelvis)	01:12:20	 16	2	url	 ATM	 ATM
+297	S9-297	Ned Dwelle	 Talk	00:18:58	 16	2	url	Talk	Talk
+298	S9-298	Ned Dwelle	 ATM (Bending sideways on the back, AY#103)	01:06:20	 16	2	url	 ATM	 ATM
+299	S9-299	Ned Dwelle	 FI Pract. (Review of LOF strategies; Demo with skeleton) +
+ LAB (Observe 3 men walking before: Wayne, Paul, Diego)	00:34:37	 16	2	url	 FI	 FI
+300	S9-300	Ned Dwelle	 ATM (Three ways of rolling- a very long version)	01:23:26	 16	2	url	 ATM	 ATM
+301	S9-301	Ned Dwelle	 LAB (Observation of 3 men walking) + FI Pract.	00:52:51	 16	2	url	 LAB	 LAB
+302	S9-302	Ned Dwelle	 Talk	00:24:29	 16	2	url	Talk	Talk
+303	S9-303	Ned Dwelle	 ATM (Three ways of rolling) + ATM (Sliding hands behind back, AY#160)	01:12:41	 16	2	url	 ATM	 ATM
+304	S9-304	Ned Dwelle	 Talk	00:06:48	 16	2	url	Talk	Talk
+305	S9-305	Ned Dwelle	 ATM (Three Ways of rolling toward sitting, cont'd) <recording stops prematurely>	00:29:08	 16	2	url	 ATM	 ATM
+306	S9-306	Ned Dwelle	 FI Pract. (List steps of mini: LOF, addressing rotation)	00:35:41	 16	2	url	 FI	 FI
+307	S9-307	Ned Dwelle	 ATM (Three ways of rolling) + ATM (Prepare for hands inside and out, AY#454)	00:11:35	 16	2	url	 ATM	 ATM
+308	S9-308	Ned Dwelle	 ATM (Three ways of rolling) + ATM (Prepare for hands inside and out, AY#454)	00:57:49	 16	2	url	 ATM	 ATM
+309	S9-309	Garet Newell	 ATM (Flex leg-roll up, 1, AH 06/22/81) + Partner Work	00:47:29	 17	4	url	 ATM	 ATM
+310	S9-310	Garet Newell	 ATM (Flex leg-roll up, 2, AH 06/22/81)	00:18:41	 17	4	url	 ATM	 ATM
+311	S9-311	Garet Newell	 ATM (Headstand preparation, 1- cardinal directions, circles, flex feet & carp jump)	00:24:44	 17	4	url	 ATM	 ATM
+312	S9-312	Garet Newell	 Guided FI Pract. (Finding structures of head and neck; 
+lift head and explore slight flexion/extension; rotation, then circles)	00:30:14	 17	4	url	 Guided	 Guided
+313	S9-313	Garet Newell	 ATM (Rolling to sitting position (heel clock), AH 06/22/81)	00:42:15	 17	4	url	 ATM	 ATM
+314	S9-314	Garet Newell	 ATM (Headstand preparation, 2- all fours, flex & extend feet, AH 06/23/81)	00:48:11	 17	4	url	 ATM	 ATM
+315	S9-315	Garet Newell	 ATM (Headstand preparation, 3- tuck toes, lift knee, to lift both knees walk feet; carp jump)	00:47:10	 17	4	url	 ATM	 ATM
+316	S9-316	Garet Newell	 Talk	00:02:24	 17	4	url	Talk	Talk
+317	S9-317	Garet Newell	 ATM (Headstand preparation, 4- touch knees to elbows)
+ <batteries finished after 2 minutes and no one noticed>	00:03:05	 17	4	url	 ATM	 ATM
+318	S9-318	Scott Clark	 ATM (Finding your hip joint, AH 07/29/81)	01:03:48	 18	3	url	 ATM	 ATM
+319	S9-319	Scott Clark	 FI Pract. (Finding the hip joints in LOB)	00:53:16	 18	3	url	 FI	 FI
+320	S9-320	Scott Clark	 FI Pract. (Finding the hip joints in LOF and LORS/LS)	00:13:42	 18	3	url	 FI	 FI
+321	S9-321	Scott Clark	 ATM (Prone, head to right; wavy pressure on floor, AH 06/25/81)	00:48:05	 18	3	url	 ATM	 ATM
+322	S9-322	Scott Clark	 ATM (Exploring eyebrow and corner of nose while 
+flexing and extending entire body, AH 06/25/81)	00:50:33	 18	3	url	 ATM	 ATM
+323	S9-323	Scott Clark	 FI Pract. (LOB, organization of the foot standing; lift leg, direct knee 
+(left to same & opposite shoulder in this morning's ATM)	00:38:58	 18	3	url	 FI	 FI
+324	S9-324	Scott Clark	 Talk (Questions about FI practice; Scott talks about structure of the foot and the 
+relationship between the talus and the calcaneus bones)	00:34:55	 18	3	url	 Talk	 Talk
+325	S9-325	Scott Clark	 ATM (Lifting the head and using the flexors, ATM for the public after class)	00:46:38	 18	3	url	 ATM	 ATM
+326	S9-326	Scott Clark	 ATM (LOF: strengthening back, AH 06/30/81)	00:57:30	 18	3	url	 ATM	 ATM
+327	S9-327	Scott Clark	 FI Pract. (LOF, lift lower legs and connect to lifting of head)	00:32:18	 18	3	url	 FI	 FI
+328	S9-328	Scott Clark	 Talk + FI Pract. (Placing hands when lifting head)	00:21:30	 18	3	url	 Talk	 Talk
+329	S9-329	Scott Clark	 FI Pract. (Pressing from behind hip joint to lengthen/open in front; seesaw with other hand on opposite lower ribcage)	00:10:52	 18	3	url	 FI	 FI
+330	S9-330	Scott Clark	 ATM (Preparation for headstand- turn the head (LOF) and lift bent legs, AH 06/30/81)	00:30:20	 18	3	url	 ATM	 ATM
+331	S9-331	Scott Clark	 ATM (LOF: lift head and legs; rock; pubic bone movements to crawling, AH 07/01/81)	00:50:11	 18	3	url	 ATM	 ATM
+332	S9-332	Scott Clark	 Discussion (Observations of learning from the ATMs and FIs of the segment)	01:09:12	 18	3	url	 Discussion	 Discussion
+333	S9-333	Scott Clark	 ATM (Sitting, releasing hamstring, walking on buttocks, AH 07/01/81)	00:28:31	 18	3	url	 ATM	 ATM
+334	S9-334	Garet Newell	 Observation (Of self; then with partners) +
+ ATM (Rolling to right side while lengthening the left, AH 07/02/81)	00:52:17	 19	3	url	 Observation	 Observation
+335	S9-335	Garet Newell	 Discussion (About effects & importance of one-sided ATM lessons) + 
+ATM (LORS, roll onto back, AH 07/02/81)	00:43:54	 19	3	url	 Discussion	 Discussion
+336	S9-336	Garet Newell	 FI Pract. (LOB review)	00:08:16	 19	3	url	 FI	 FI
+337	S9-337	Garet Newell	 Talk	00:05:54	 19	3	url	Talk	Talk
+338	S9-338	Garet Newell	 ATM (On back, walking on shoulder blades, AH 07/06/81)	00:28:29	 19	3	url	 ATM	 ATM
+339	S9-339	Garet Newell	 Talk	00:05:11	 19	3	url	Talk	Talk
+340	S9-340	Garet Newell	 ATM (On back, walking on shoulder blades, AH 07/06/81) + Partner Work	00:51:29	 19	3	url	 ATM	 ATM
+341	S9-341	Garet Newell	 FI Pract. (Observe shape of C7/T1 area in sitting; lift head in pecking)	00:17:16	 19	3	url	 FI	 FI
+342	S9-342	Günther Bisges	 ATM (Arching back to bridge (get hold of ankles), AH 07/06/81)	00:45:48	 19	3	url	 ATM	 ATM
+343	S9-343	Garet Newell	 Talk (Sharing: what effect are these lessons in extension on your state) + ATM (Bridging on back (actually in sitting and on knees), AH 07/07/81)	00:32:24	 19	3	url	 Talk	 Talk
+344	S9-344	Garet Newell	 ATM (Sit, on knees, hands to bridge; rotate arms behind to hold ankle (an extreme extension lesson), AH 07/08/81)	00:56:08	 19	3	url	 ATM	 ATM
+345	S9-345	Garet Newell	 FI Pract. (LOB, rolling head and rotating heels, AH 07/06/81) + 
+FI Pract. (Find the connection to entire spine from top of head in sitting and LOB)	00:06:54	 19	3	url	 FI	 FI
+346	S9-346	Garet Newell	 FI Pract. (LOB: lift shoulders & feel movement in ribs)	00:20:45	 19	3	url	 FI	 FI
+347	S9-347	Günther Bisges	 ATM (LOB with legs bent, lift foot to feel differences right/left and 
+lifting with extension/flexion in lumbar area)	00:31:47	 19	3	url	 ATM	 ATM
+348	S9-348	Garet Newell	 ATM (LOB, hands in bridge, rock torso to improve head going back, AH 07/08/81)	00:52:13	 19	3	url	 ATM	 ATM
+349	S9-349	Garet Newell	 FI Pract. (Addressing rotation in sitting and in LOB)	00:13:07	 19	3	url	 FI	 FI
+350	S9-350	Garet Newell	 FI Pract. (Arm through primitive path to rest on opposite shoulder & 
+roll head in same & opposite direction)	00:10:39	 19	3	url	 FI	 FI
+351	S9-351	Garet Newell	 FI Pract. (Stand one leg & place hands on ASIS, feel rotation diff & roll head)	00:05:38	 19	3	url	 FI	 FI
+352	S9-352	Garet Newell	 FI Pract. Cont'd	00:02:46	 19	3	url	 FI	 FI
+353	S9-353	Garet Newell	 ATM (Preparation for the bridge, side-lying, AH 07/09/81)	00:35:50	 19	3	url	 ATM	 ATM
+354	S9-354	Garet Newell	 Talk (Introduction to the segment and the following ATM)	00:02:06	 20	3	url	 Talk	 Talk
+355	S9-355	Garet Newell	 ATM (LOF, The extensors (warming up & for AY#2), private library & TDT-TT)	00:50:25	 20	3	url	 ATM	 ATM
+356	S9-356	Garet Newell	 Talk (About the AY lessons and and the following ATM)	00:01:52	 20	3	url	 Talk	 Talk
+357	S9-357	Garet Newell	 ATM (Seeing the heels, AY#2)	00:41:18	 20	3	url	 ATM	 ATM
+358	S9-358	Garet Newell	 FI Pract. (Observe partners in sitting) + 
+FI Pract. (In sitting of 'organizing the base', demo with Catherine)	00:19:28	 20	3	url	 FI	 FI
+359	S9-359	Günther Bisges	 ATM (Skewering the spine in the chest, AY#308)	00:38:59	 20	3	url	 ATM	 ATM
+360	S9-360	Garet Newell	 ATM (Interlace fingers, rotate wrists, inspired by AH 07/13/81)	01:06:00	 20	3	url	 ATM	 ATM
+361	S9-361	Garet Newell	 Talk (Sharing experiences from yesterday's FI Pract.) + 
+FI Pract. (In sitting, lift leg and: move it inwards/outwards)	00:15:42	 20	3	url	 Talk	 Talk
+362	S9-362	Garet Newell	 ATM (Rotating wrists, AH 07/13/81)	00:27:40	 20	3	url	 ATM	 ATM
+363	S9-363	Garet Newell	 ATM (Bridging, right side, 1, AH 07/15/81)	00:36:37	 20	3	url	 ATM	 ATM
+364	S9-364	Garet Newell	 ATM (Bridging, right side, 2, AH 07/15/81)	00:05:31	 20	3	url	 ATM	 ATM
+365	S9-365	Garet Newell	 Talk (About ATM of 'Thinking and breathing')	00:30:45	 20	3	url	 Talk	 Talk
+366	S9-366	Garet Newell	 FI Pract. (In sitting, addressing side bending, demo with Marcia)	00:46:29	 20	3	url	 FI	 FI
+367	S9-367	Garet Newell	 ATM (Hurdles; walking and swinging pelvis, AH 07/15/81)	01:14:02	 20	3	url	 ATM	 ATM
+368	S9-368	Garet Newell	 FI Pract. (In sitting: addressing rotation, demo with Tristan)	00:23:04	 20	3	url	 FI	 FI
+369	S9-369	Garet Newell	 ATM (Eyes like a telescope, expanded version of AH 07/16/81)	01:02:57	 20	3	url	 ATM	 ATM
+370	S9-370	Garet Newell	 FI Pract. (In sitting, organize shoulder girdle, demo with Tristan)	00:30:37	 20	3	url	 FI	 FI
+371	S9-371	Sadie Martin	 ATM (Flexors, elbows to knees)	00:41:13	 20	3	url	 ATM	 ATM
+372	S9-372	Garet Newell	 Talk (About the order and the learning in the previous ATM)	00:50:39	 20	3	url	 Talk	 Talk
+373	S9-373	Garet Newell	 ATM (Walking on all four, stomach upwards, AH 07/16/81)	00:47:27	 20	3	url	 ATM	 ATM
+374	S9-374	Ned Dwelle	 Talk (About the Esalen material)	00:13:56	 21	3	url	 Talk	 Talk
+375	S9-375	Ned Dwelle	 ATM (In standing and walking) + ATM (Spinal chain, 1)	01:08:58	 21	3	url	 ATM	 ATM
+376	S9-376	Ned Dwelle	 Talk	00:30:51	 21	3	url	Talk	Talk
+377	S9-377	Ned Dwelle	 ATM (Spinal chain, 2)	00:58:14	 21	3	url	 ATM	 ATM
+378	S9-378	Ned Dwelle	 FI Pract. (In sitting, guided)	01:07:01	 21	3	url	 FI	 FI
+379	S9-379	Ned Dwelle	 FI Pract. (In sitting: review & lift leg from contact at sides of condyles)	00:26:54	 21	3	url	 FI	 FI
+380	S9-380	Ned Dwelle	 FI Pract. (In sitting: lift shoulder, explore various movements; tilt head;
+ lift up shoulder and tilt head; demo with Paul)	00:16:44	 21	3	url	 FI	 FI
+381	S9-381	Ned Dwelle	 ATM (Jelly pudding, variations of Esalen#22)	01:00:43	 21	3	url	 ATM	 ATM
+382	S9-382	Ned Dwelle	 ATM (In standing and walking) + ATM (Mobilizing the pelvic thrust, 1, Esalen#41)	01:01:56	 21	3	url	 ATM	 ATM
+383	S9-383	Ned Dwelle	 Talk	00:08:12	 21	3	url	Talk	Talk
+384	S9-384	Ned Dwelle	 ATM (Mobilizing the pelvic thrust, 2, Esalen#41)	00:46:56	 21	3	url	 ATM	 ATM
+385	S9-385	Ned Dwelle	 FI Pract. (Review) + Talk (About the shoulder girdle)	00:26:22	 21	3	url	 FI	 FI
+386	S9-386	Garet Newell,
+ Ned Dwelle	 Group Work (Initial interview with an FI client)	00:10:00	 21	3	url	 Group	 Group
+387	S9-387	Ned Dwelle	 FI Pract. (In sitting; review and clarification of taking the arms)	00:09:33	 21	3	url	 FI	 FI
+388	S9-388	Ned Dwelle	 ATM (In sitting)	00:11:45	 21	3	url	 ATM	 ATM
+389	S9-389	Ned Dwelle	 Talk	00:17:26	 21	3	url	Talk	Talk
+390	S9-390	Ned Dwelle	 LAB (Exploration in standing and of walking)	01:12:57	 21	3	url	 LAB	 LAB
+391	S9-391	Ned Dwelle	 ATM (Left shoulder differentiation, 1, Esalen#23)	00:45:13	 21	3	url	 ATM	 ATM
+392	S9-392	Ned Dwelle	 Talk (Integration)	00:07:00	 21	3	url	 Talk	 Talk
+393	S9-393	Ned Dwelle	 ATM (Left shoulder differentiation, 2, Esalen#23)	00:13:35	 21	3	url	 ATM	 ATM
+394	S9-394	Ned Dwelle	 ATM (In walking)	00:01:55	 21	3	url	 ATM	 ATM
+395	S9-395	Ned Dwelle	 FI Pract. (Continuation)	00:11:07	 21	3	url	 FI	 FI
+396	S9-396	Ned Dwelle	 ATM (In sitting on stools)	00:20:59	 21	3	url	 ATM	 ATM
+397	S9-397	Ned Dwelle	 FI Pract. (In sitting: review)	00:28:42	 21	3	url	 FI	 FI
+399	S9-399	Scott Clark	 ATM (Improving bending of wrist with eye movement, 1, AH 07/20/81)	01:05:23	 22	3	url	 ATM	 ATM
+399	S9-398	Ned Dwelle	 ATM (Left shoulder differentiation, 3, Esalen#23)	01:05:17	 21	3	url	 ATM	 ATM
+400	S9-400	Scott Clark	 ATM (Improving bending of wrist with eye movement, 2, AH 07/20/81)	00:45:42	 22	3	url	 ATM	 ATM
+401	S9-401	Scott Clark	 FI Pract. (Converting ATM to FI: LORS/LS, reach with arm above head; move pelvis upwards, then downwards)	00:15:01	 22	3	url	 FI	 FI
+402	S9-402	Scott Clark	 FI Pract. (Continuation + directing vertebrae to support reaching with arm)	00:09:10	 22	3	url	 FI	 FI
+403	S9-403	Scott Clark	 ATM (LOB and organize to get up to the right)	00:37:38	 22	3	url	 ATM	 ATM
+404	S9-404	Scott Clark	 ATM (LOB: Head and pelvis up, change pressure on shoulder blades, AH 07/20/81)	01:04:19	 22	3	url	 ATM	 ATM
+405	S9-405	Scott Clark	 Talk (About ATM)	00:31:51	 22	3	url	 Talk	 Talk
+406	S9-406	Scott Clark	 ATM (Prone, rotating around feet, pelvis and neck, AH 07/21/81)	00:27:01	 22	3	url	 ATM	 ATM
+407	S9-407	Scott Clark	 FI Pract. (Converting ATM to FI, guided)	00:03:12	 22	3	url	 FI	 FI
+408	S9-408	Scott Clark	 FI Pract. (FI sequence and discussion)	00:24:02	 22	3	url	 FI	 FI
+409	S9-409	Scott Clark	 ATM (Lengthening the right side, AH 07/20/81)	00:30:05	 22	3	url	 ATM	 ATM
+410	S9-410	Scott Clark	 ATM (Prone rotating around feet, pelvis and neck, preparation for, AH 07/21/81)	00:52:38	 22	3	url	 ATM	 ATM
+411	S9-411	Scott Clark	 FI Pract. (Begin in sitting; LORS/LS, place hand in three ways and rotate chest)	00:13:43	 22	3	url	 FI	 FI
+412	S9-412	Scott Clark	 FI Pract. (Clarifying: finding easiest direction of rotation while in sitting)	00:07:10	 22	3	url	 FI	 FI
+413	S9-413	Scott Clark	 ATM (On Four Walking, remainder of, AH 07/21/81)	01:11:52	 22	3	url	 ATM	 ATM
+414	S9-414	Scott Clark	 FI Pract. (Sit on stool, with head resting on (trestle) table with support)	00:09:31	 22	3	url	 FI	 FI
+415	S9-415	Garet Newell	 ATM (Crawling, how to help a baby lift its head, AH 07/21/81)	00:50:27	 22	3	url	 ATM	 ATM
+416	S9-416	Scott Clark	 ATM (Straightening the leg while holding the ankle, 1, AH 07/22/81)	01:04:51	 22	3	url	 ATM	 ATM
+417	S9-417	Scott Clark	 FI Pract. (Review: In position of sitting on stool and resting head on table)	00:04:07	 22	3	url	 FI	 FI
+418	S9-418	Scott Clark	 FI Pract. (Continuation + rotate head; ribs rotation; take arm into the direction of rotation)	00:12:21	 22	3	url	 FI	 FI
+419	S9-419	Scott Clark	 FI Pract. (Continuation + rotate head; ribs rotation; take arm into the direction of rotation, cont)	00:03:39	 22	3	url	 FI	 FI
+420	S9-420	Scott Clark	 ATM (In standing, addressing rotation)	00:13:33	 22	3	url	 ATM	 ATM
+421	S9-421	Scott Clark	 ATM (Straightening the leg while holding the ankle, 2, AH 07/22/81)	00:53:54	 22	3	url	 ATM	 ATM
+422	S9-422	Garet Newell	 ATM (Straightening the leg, review with emphasis on using the quadriceps, AH 07/22/81)	01:21:49	 23	3	url	 ATM	 ATM
+423	S9-423	Garet Newell	 ATM (Ellipse with leg (LORS), AH 07/23/81)	00:05:49	 23	3	url	 ATM	 ATM
+424	S9-424	Garet Newell	 FI Pract. (LOB, with legs long: locate back of greater trochanter to rotate leg, demo with skeleton)	00:13:01	 23	3	url	 FI	 FI
+425	S9-425	Garet Newell	 ATM (Ellipse with leg (LOLS))	00:20:01	 23	3	url	 ATM	 ATM
+426	S9-426	Garet Newell	 ATM (On side, circles with leg and head, AY#30)	00:36:35	 23	3	url	 ATM	 ATM
+427	S9-427	Garet Newell	 Group Work (Making observations and formulating an FI, with partners and groups of four)	00:11:53	 23	3	url	 Group	 Group
+428	S9-428	Garet Newell	 Group Work (Making observations and formulating an FI, with partners and groups of four, cont)	00:06:24	 23	3	url	 Group	 Group
+429	S9-429	Garet Newell	 ATM (Getting on feet from standing, AH 07/27/81 + AH 07/28/81)	00:57:38	 23	3	url	 ATM	 ATM
+430	S9-430	Garet Newell	 FI Pract. (Review: LORS/LS, rotating with different hand positions; 
+rest arm on roller behind back, demo with Maria)	00:26:49	 23	3	url	 FI	 FI
+431	S9-431	Garet Newell	 FI Pract. (Review: rotation with different hand positions, add leg, demo with Maria)	00:18:41	 23	3	url	 FI	 FI
+432	S9-432	Garet Newell	 ATM (On back, lifting hip to lengthen opposite arm, SF Evening Classes #11, Gaby Yaron)	00:40:05	 23	3	url	 ATM	 ATM
+433	S9-433	Garet Newell	 ATM (Flexing entire body, AH 08/03/81)	00:49:14	 24	3	url	 ATM	 ATM
+434	S9-434	Garet Newell	 FI Pract. (Questions and clarifications)	00:25:27	 24	3	url	 FI	 FI
+435	S9-435	Garet Newell	 FI Pract. (Review of FI in sitting: creating a base, explore flexion/extension, then side-bending)	00:30:46	 24	3	url	 FI	 FI
+436	S9-436	Garet Newell	 FI Pract. (Review of FI in sitting: lift shoulder; tilt head; tilt head, lift shoulder and 'hold' configuration, move right/ left)	00:17:49	 24	3	url	 FI	 FI
+437	S9-437	Garet Newell	 ATM	00:08:31	 24	3	url	ATM	ATM
+438	S9-438	Garet Newell	 ATM (On stomach, head right, twisting legs to right, AH 08/04/81)	00:34:33	 24	3	url	 ATM	 ATM
+439	S9-439	Garet Newell	 FI Pract. (In sitting in chairs with support: review rotation)	00:20:35	 24	3	url	 FI	 FI
+440	S9-440	Garet Newell	 FI Pract. (Sitting in chairs with support; student leans on both elbows)	00:08:08	 24	3	url	 FI	 FI
+441	S9-441	Mara della Pergola	 ATM (On all fours, exploring flexion/ extension and side-bending (as preparation for kneeling over the table))	00:58:50	 25	4	url	 ATM	 ATM
+442	S9-442	Mara della Pergola	 Talk (About experiences in previous ATM)	00:01:46	 25	4	url	 Talk	 Talk
+443	S9-443	Mara della Pergola	 FI Pract. (Introducing the position of kneeling over the table, 1)	00:34:52	 25	4	url	 FI	 FI
+444	S9-444	Mara della Pergola	 FI Pract. (With skeleton: introducing the position of kneeling over the table, 2)	00:17:44	 25	4	url	 FI	 FI
+445	S9-445	Maria de Sousa	 ATM (Seeing the heels, AY#2)	00:53:02	 25	4	url	 ATM	 ATM
+446	S9-446	Mara della Pergola	 ATM (Head and anus backwards, mostly in LORS/LS, entire spine in extension, AY#524)	01:07:32	 25	4	url	 ATM	 ATM
+447	S9-447	Mara della Pergola	 FI Pract. (Kneeling over the table, 2)	00:20:17	 25	4	url	 FI	 FI
+448	S9-448	Mara della Pergola	 ATM (Buttock off chair)	00:44:51	 25	4	url	 ATM	 ATM
+449	S9-449	Joan Acton	 ATM (Bending the head to the side when sitting, AY#1) <bad sound quality>	00:53:29	 25	4	url	 ATM	 ATM
+450	S9-450	Mara della Pergola	 FI Pract. (Kneeling over the table, 3)	00:29:22	 25	4	url	 FI	 FI
+451	S9-451	Mara della Pergola	 ATM (Gluing in the lungs, 1, AY#203)	00:41:49	 25	4	url	 ATM	 ATM
+452	S9-452	Ulrike Apel	 ATM (Back and neck, AY#445)	01:00:47	 26	4	url	 ATM	 ATM
+453	S9-453	Ulrike Apel	 LAB (Observation: Standing quickly/ shifting weight)	00:40:56	 26	4	url	 LAB	 LAB
+454	S9-454	Ulrike Apel	 FI Pract. (LOF, lift back leg to explore various movements of leg & foot)	00:24:45	 26	4	url	 FI	 FI
+455	S9-455	Ulrike Apel	 FI Pract. (Further clarifications, demo with Craig)	00:09:21	 26	4	url	 FI	 FI
+456	S9-456	Ulrike Apel	 FI Pract.	00:09:29	 26	4	url	 FI	 FI
+457	S9-457	Catherine Cardwell	 ATM (Hands interlaced, AY#33)	00:55:03	 26	4	url	 ATM	 ATM
+458	S9-458	Ulrike Apel	 FI Pract. (LOF, practice bringing a leg up to be bent at the side, as in crawling)	00:25:20	 26	4	url	 FI	 FI
+459	S9-459	Ulrike Apel	 ATM (Tying the upper arms, AY#391)	01:07:26	 26	4	url	 ATM	 ATM
+460	S9-460	Ulrike Apel	 ATM (Movements on the right and left cheeks, AY#127)	00:57:05	 26	4	url	 ATM	 ATM
+461	S9-461	Ulrike Apel	 FI Pract. (LOF, bring leg up to side; include ribs)	00:13:31	 26	4	url	 FI	 FI
+462	S9-462	Ulrike Apel	 FI Pract. (Lifting shoulder whilst LOF, from sitting at head & at side)	00:15:48	 26	4	url	 FI	 FI
+463	S9-463	Nadine Sayir	 ATM (Head and back (distinction in turn), AY#38)	00:45:19	 26	4	url	 ATM	 ATM
+464	S9-464	Ulrike Apel	 FI Pract. (Comparison of FI of kneeling over the table and of LOF-
+ what is unique and different in each position)	00:24:24	 26	4	url	 FI	 FI
+465	S9-465	Ulrike Apel	 FI Pract. (Guided in LOF: putting this segment's lesson together)	00:40:23	 26	4	url	 FI	 FI
+466	S9-466	Ulrike Apel	 ATM (Extending arms and knees, AY#527)	00:44:37	 26	4	url	 ATM	 ATM
+467	S9-467	Garet Newell	 ATM (On side, turning with straight arm in arc,
+ SF Eve Classes with Gaby & Mia, lesson #3)	00:47:24	 27	4	url	 ATM	 ATM
+468	S9-468	Garet Newell	 FI Pract. (Review: LORS/LS strategies to create a lesson addressing
+side- bending, demo with Mark Lacey)	00:40:29	 27	4	url	 FI	 FI
+469	S9-469	Jenny Hillnz	 ATM (Rolling right and left, AY#122) <replacement recording from LEWES 5 training>	01:10:20	 27	4	url	 ATM	 ATM
+470	S9-470	Garet Newell	 FI Pract. (LORS/LS review, with theme of walking and diagonals;
+ demo with Mark Lacey)	00:26:22	 27	4	url	 FI	 FI
+471	S9-471	Wayne Farrage	 ATM (Dragging knees to stomach, AY#515)	00:50:21	 27	4	url	 ATM	 ATM
+472	S9-472	Garet Newell	 LAB (Guided observation with partners for FI with theme of rotation)	00:10:29	 27	4	url	 LAB	 LAB
+473	S9-473	Garet Newell	 Group Work (Share observations: discuss beginning of FI with student)	00:01:37	 27	4	url	 Group	 Group
+474	S9-474	Louise Anderson	 ATM (Releasing the hips by holding the feet, AY#302)	00:51:47	 27	4	url	 ATM	 ATM
+475	S9-475	Garet Newell	 FI Pract. (In position of LORS/LS: strategies for rotation (last part of review))	00:29:45	 27	4	url	 FI	 FI
+476	S9-476	Garet Newell	 ATM (On side, the sternum becoming flexible, AY#217)	00:56:11	 27	4	url	 ATM	 ATM
+477	S9-477	Garet Newell	 FI Pract. (LOB, find C7/ T1, connect through diagonal to opposite hip joint, demo with Günther)	00:09:47	 27	4	url	 FI	 FI
+478	S9-478	Garet Newell	 FI Pract. (cont´d, with Günther)	00:13:38	 27	4	url	 FI	 FI
+479	S9-479	Adrian Daniel	 ATM (Sitting with straight legs, AY#12)	00:42:51	 27	4	url	 ATM	 ATM
+480	S9-480	Garet Newell	 FI Pract. (LOB, artificial floor, first approximation with board)	00:18:02	 27	4	url	 FI	 FI
+481	S9-481	Garet Newell	 ATM (LOF, learning to crawl, Garets collection)	00:51:46	 27	4	url	 ATM	 ATM
+482	S9-482	Roger Russell	 Talk (Translating ATM into FI)	00:06:04	 28	4	url	 Talk	 Talk
+483	S9-483	Roger Russell	 ATM (Bending sideways on the back, 1 AY#103)	01:03:03	 28	4	url	 ATM	 ATM
+484	S9-484	Roger Russell	 ATM (Bending sideways on the back, 2 AY#103)	01:18:34	 28	4	url	 ATM	 ATM
+485	S9-485	Roger Russell	 Talk (Translating ATM AY#103 into FI, analizing the lesson)	00:36:38	 28	4	url	 Talk	 Talk
+486	S9-486	Roger Russell	 LAB (Doing some mov from ATM Elbows & knees touching, AY#27)	00:12:47	 28	4	url	 LAB	 LAB
+487	S9-487	Christopher Killick	 ATM (Elbows & knees touching, 1 AY#27)	00:42:54	 28	4	url	 ATM	 ATM
+488	S9-488	Roger Russell	 Talk (Q/a)	01:02:09	 28	4	url	 Talk	 Talk
+489	S9-489	Roger Russell	 ATM (Elbows & knees touching, 2 AY#27)	00:40:03	 28	4	url	 ATM	 ATM
+490	S9-490	Roger Russell	 FI Pract. Guided (Translating ATM AY#27 mov into FI, 1)	00:17:01	 28	4	url	 FI	 FI
+491	S9-491	Roger Russell	 Talk (About Dreyfuss & competence)	00:32:15	 28	4	url	 Talk	 Talk
+492	S9-492	Roger Russell	 FI Pract. Guided (Translating ATM AY#27 mov into FI, 2)	00:08:05	 28	4	url	 FI	 FI
+493	S9-493	Roger Russell	 ATM (Coordination of the Flexor Muscles and of the Extensors, ATM Book Lesson 5  e.g. of pure rotational movement)	00:30:17	 28	4	url	 ATM	 ATM
+494	S9-494	Roger Russell	 ATM (Combination of AY#103 and ATM Book Lesson 5)	01:14:44	 28	4	url	 ATM	 ATM
+495	S9-495	Roger Russell	 Talk (About FI)	00:06:48	 28	4	url	 Talk	 Talk
+496	S9-496	Roger Russell	 FI Pract. (Translating ATM into FI)	00:47:41	 28	4	url	 FI	 FI
+497	S9-497	Roger Russell	 ATM (Variations on Coordination of the Flexor Muscles and of the Extensors, ATM Book Lesson 5)	00:12:21	 28	4	url	 ATM	 ATM
+498	S9-498	Roger Russell	 Partner work (Doing some mov from previous ATM and follow your partner´s mov)	00:04:32	 28	4	url	 Partner	 Partner
+499	S9-499	Bruno Furci	 ATM (Legs joined, lying on the floor, AY#233)	00:46:25	 28	4	url	 ATM	 ATM
+500	S9-500	Roger Russell	 Talk (About brain and nervous system)	01:52:36	 28	4	url	 Talk	 Talk
+501	S9-501	Roger Russell	 FI Pract. (ATM to FI: addressing rotation)	00:10:26	 28	4	url	 FI	 FI
+502	S9-502	Roger Russell	 Talk (How the Method can impact
+ on people's lives)	00:16:25	 28	4	url	 Talk	 Talk
+503	S9-503	Roger Russell	 ATM (Bending sideways on the back, 3 AY#103)	00:29:21	 28	4	url	 ATM	 ATM
+504	S9-504	Roger Russell	 FI Pract. (LOB, roll head & sense cervical spine)	00:17:56	 28	4	url	 FI	 FI
+505	S9-505	Roger Russell	 FI Pract. Guided (Partner at head with hands on back of neck)	00:24:59	 28	4	url	 FI	 FI
+506	S9-506	Marisa Figini	 ATM (Lifting pelvis on standing feet, AY#43)	00:45:07	 28	4	url	 ATM	 ATM
+507	S9-507	Roger Russell	 Talk (FI Practicum feedback with some demos embebbed)	00:55:35	 28	4	url	 Talk	 Talk
+508	S9-508	Roger Russell	 ATM (Summary of AY#103)	00:40:20	 28	4	url	 ATM	 ATM
+509	S9-509	Roger Russell	 FI Pract. Guided (Translating ATM into FI)	00:56:29	 28	4	url	 FI	 FI
+510	S9-510	Garet Newell	 ATM (Tilting knees on back- connecting to arms above head, SF Eve. Class, 1977, Mia Segal #12)	00:58:46	 29	4	url	 ATM	 ATM
+511	S9-511	Garet Newell	 Partner Work (Introduction to Movement Biography)	00:12:02	 29	4	url	 Partner	 Partner
+512	S9-512	Wayne Farrage	 ATM (Crawling on knees, Esalen#25)	00:58:11	 29	4	url	 ATM	 ATM
+513	S9-513	Garet Newell	 ATM (Variatios on LORS, head, shoulder, chest differentiation, from Gaby Yaron)
+ <first 30 mins missing>	00:26:41	 29	4	url	 ATM	 ATM
+514	S9-514	Mary Hunt	 ATM (Extending arms and knees, AY#527)	00:44:54	 29	4	url	 ATM	 ATM
+515	S9-515	Garet Newell	 FI Pract. (Fingers, wrist, lower arm)	00:40:10	 29	4	url	 FI	 FI
+516	S9-516	Scott Clark	 ATM (Morris dancing, PL)	01:08:23	 29	4	url	 ATM	 ATM
+517	S9-517	Garet Newell, Günther Bisges, Scott Clark	 Talk (Starting a practice)	00:59:28	 29	4	url	 Talk	 Talk
+518	S9-518	Garet Newell	 FI Pract. (Self-organizing experiment during FI in groups of 3)	00:17:20	 29	4	url	 FI	 FI
+519	S9-519	Garet Newell	 ATM (Fingers backwards, AY#125) <only first 14 min recorded>	00:14:19	 29	4	url	 ATM	 ATM
+520	S9-520	Meriel Nicoll	 ATM (Extending arms and twisting to back, AY#121)	00:45:19	 29	4	url	 ATM	 ATM
+521	S9-521	Garet Newell	 ATM (Skewering the spine in the chest, AY#308)	00:23:54	 29	4	url	 ATM	 ATM
+522	S9-522	Ned Dwelle	 Talk	00:22:40	 30	4	url	Talk	Talk
+523	S9-523	Ned Dwelle	 ATM (Variations on Making the sternum flexible, 1, AY#217)	00:40:25	 30	4	url	 ATM	 ATM
+524	S9-524	Ned Dwelle	 ATM (Variations on Making the sternum flexible, 2, AY#217)	00:43:01	 30	4	url	 ATM	 ATM
+525	S9-525	Ned Dwelle	 LAB (About C7)	00:12:58	 30	4	url	 LAB	 LAB
+526	S9-526	Ned Dwelle	 FI Pract. (LOB, exploring from C7, demo with Wayne)	00:27:01	 30	4	url	 FI	 FI
+527	S9-527	Ned Dwelle	 ATM (Variations on Making the sternum flexible, 3, AY#217)	00:28:03	 30	4	url	 ATM	 ATM
+528	S9-528	Laura Peppiatt	 ATM (Self-hug arms rolling upper and lower girdle, AY#230)	00:54:25	 30	4	url	 ATM	 ATM
+529	S9-529	Ned Dwelle	 Talk (Anatomy principles)	00:36:47	 30	4	url	 Talk	 Talk
+530	S9-530	Ned Dwelle	 ATM (In standing, turning with the eyes, 1, AY#484)	00:29:35	 30	4	url	 ATM	 ATM
+531	S9-531	Ned Dwelle	 FI Pract. (LOB, exploring C7 & connection to legs, demo with Catherine)	00:37:45	 30	4	url	 FI	 FI
+532	S9-532	Ned Dwelle	 ATM (In standing, turning with the eyes, 2, AY#484) <Beggining's missing>	00:22:12	 30	4	url	 ATM	 ATM
+533	S9-533	Craig Rebuck	 ATM (Chanukia, AY#18)	00:55:29	 30	4	url	 ATM	 ATM
+534	S9-534	Ned Dwelle	 Talk (About the FI with Wayne)	00:29:55	 30	4	url	 Talk	 Talk
+535	S9-535	Ned Dwelle	 FI Pract. (LOB, lateral movement of C7, demo with Sadie)	00:32:20	 30	4	url	 FI	 FI
+536	S9-536	Ned Dwelle	 ATM (In standing, turning with the eyes, 3, AY#484)	00:12:59	 30	4	url	 ATM	 ATM
+537	S9-537	Ned Dwelle	 Talk (About paying atention + about breathing)	00:24:25	 30	4	url	 Talk	 Talk
+538	S9-538	Ned Dwelle	 ATM (Gluing in the lungs, AY#201)	00:53:35	 30	4	url	 ATM	 ATM
+539	S9-539	Ned Dwelle	 Talk (About the FI we have practiced so far)	00:25:35	 30	4	url	 Talk	 Talk
+540	S9-540	Ned Dwelle	 FI Demo (With the skeleton: review and adding connecting diagonally)	00:31:05	 30	4	url	 FI	 FI
+541	S9-541	Ned Dwelle	 ATM (Extending the arms and legs with examination, AY#237)	01:22:14	 30	4	url	 ATM	 ATM
+542	S9-542	Students	 Talk (About the FI lessons in the Practicum +
+ ATM chapter in Elusive Obvious)	00:17:23	 30	4	url	 Talk	 Talk
+543	S9-543	Ned Dwelle	 FI Pract. (Exchange a half an hour FI, using the C7 theme)	00:06:52	 30	4	url	 FI	 FI
+544	S9-544	Sadie Martin	 ATM (Crossing knees and twisting back and pelvis, AY#140)	00:46:54	 30	4	url	 ATM	 ATM
+545	S9-545	Ned Dwelle	 FI Demo (With skeleton, strategies in terms of thinking of vertical and horizontal axis)	00:40:07	 30	4	url	 FI	 FI
+546	S9-546	Ned Dwelle	 Talk (Orientation in movement)	00:02:23	 30	4	url	 Talk	 Talk
+547	S9-547	Ned Dwelle	 ATM (In standing, turning with the eyes, 4, AY#484)	00:52:46	 30	4	url	 ATM	 ATM
+548	S9-548	Garet Newell	 ATM (Sliding along the length of the leg, AY#37)	00:55:37	 31	4	url	 ATM	 ATM
+549	S9-549	Garet Newell	 FI Pract. (LOB, use of roller under foot)	00:32:32	 31	4	url	 FI	 FI
+550	S9-550	Scott Clark	 ATM (Turning the heels, 1, AY#175)	00:35:55	 31	4	url	 ATM	 ATM
+551	S9-551	Kate Sweetapple	 ATM (Twisting like an O with differentiations, AY#352)	00:40:37	 31	4	url	 ATM	 ATM
+552	S9-552	Scott Clark	 ATM (Turning the heels, 2, AY#175)	00:46:10	 31	4	url	 ATM	 ATM
+553	S9-553	Garet Newell, Günther Bisges, Scott Clark	 Talk (Starting a practice)	00:37:50	 31	4	url	 Talk	 Talk
+554	S9-554	Garet Newell	 FI Pract. (Review of FI, focusing on C7)	00:31:01	 31	4	url	 FI	 FI
+555	S9-555	Naomi Sato	 ATM (Twisting with a long arm, AY#240)	00:58:55	 31	4	url	 ATM	 ATM
+556	S9-556	Garet Newell	 FI Pract. (Connecting through C7 in LORS/LS with rotation 
+in shoulder girdle and pelvis from arm and leg)	00:09:36	 31	4	url	 FI	 FI
+557	S9-557	Jane Sethi	 ATM (Sinking spine between shoulder blades, AY#96)	00:59:09	 31	4	url	 ATM	 ATM
+558	S9-558	Garet Newell	 FI Pract. (Additions to connecting through C7)	00:08:25	 31	4	url	 FI	 FI
+559	S9-559	Garet Newell	 FI Pract. (Observations and review)	00:20:32	 31	4	url	 FI	 FI
+560	S9-560	Garet Newell	 ATM (Work with the active/ dominant hand, AY#124)	00:45:11	 31	4	url	 ATM	 ATM
+561	S9-561	Garet Newell	 ATM (LOB, movements of foot, Garets collection)	00:43:16	 32	4	url	 ATM	 ATM
+562	S9-562	Garet Newell	 FI Pract. (LOB, translate previous ATM to FI, Demo with Bruno)	00:34:40	 32	4	url	 FI	 FI
+563	S9-563	Garet Newell	 ATM (On the Cheek, AY#25)	00:51:53	 32	4	url	 ATM	 ATM
+564	S9-564	Valerie Victoria	 ATM (Cardinal head movements, AY#100)	00:47:59	 32	4	url	 ATM	 ATM
+565	S9-565	Garet Newell	 FI Pract. (LOF, review of LOF strategies)	00:30:08	 32	4	url	 FI	 FI
+566	S9-566	Garet Newell	 FI Pract. (Clarifications)	00:24:19	 32	4	url	 FI	 FI
+567	S9-567	Caroline Thompson	 ATM (Rolling to sit with the elbows, AY#3)	01:10:05	 32	4	url	 ATM	 ATM
+568	S9-568	Garet Newell	 ATM (The foot and its toes, AY#36)	01:02:03	 32	4	url	 ATM	 ATM
+569	S9-569	Garet Newell	 FI Pract. (LOB, artificial floor with Craig)	00:20:10	 32	4	url	 FI	 FI
+570	S9-570	Garet Newell	 ATM (Introduction to walking 1, AY#274)	00:18:14	 32	4	url	 ATM	 ATM
+571	S9-571	Garet Newell	 Partner Work (Helping your partner keeping the head stable)	00:06:37	 32	4	url	 Partner	 Partner
+572	S9-572	Garet Newell	 ATM (Introduction to walking 1, AY#274, cont'd)	00:14:56	 32	4	url	 ATM	 ATM
+573	S9-573	Garet Newell	 Partner Work (Sensing changes after the ATM)	00:01:26	 32	4	url	 Partner	 Partner

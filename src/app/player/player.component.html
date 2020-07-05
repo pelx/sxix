@@ -1,0 +1,23 @@
+<ion-header>
+    <ion-toolbar>
+        <ion-buttons slot="primary">
+            <ion-button (click)="onCancel()">
+                <ion-icon name="close"></ion-icon>
+
+            </ion-button>
+        </ion-buttons>
+        <ion-title>{{selectedLesson.topic}}</ion-title>
+    </ion-toolbar>
+</ion-header>
+<ion-content
+    class="ion-text-center"
+    class="ion-paddingr"
+>
+    <ion-item>Lesson: {{selectedLesson.name}}</ion-item>
+    <ion-button
+        color="primary"
+        (click)="onSave()"
+    >
+        Save
+    </ion-button>
+</ion-content>

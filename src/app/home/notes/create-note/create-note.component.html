@@ -1,0 +1,106 @@
+<ion-header>
+    <ion-toolbar>
+        <ion-title>Create New Note</ion-title>
+        <ion-buttons slot="primary">
+            <ion-button (click)="onCancel()">
+                <ion-icon name="close"></ion-icon>
+            </ion-button>
+        </ion-buttons>
+    </ion-toolbar>
+</ion-header>
+
+<ion-content
+    class="ion-padding"
+    class="ion-text-center"
+>
+    <form
+        (ngSubmit)="onCreateNote()"
+        #f="ngForm"
+    >
+        <ion-grid>
+            <ion-row>
+                <ion-col
+                    size-sm="6"
+                    offset-sm="3"
+                >
+                    <ion-item>
+                        <ion-label postion="floating">{{selectedLesson.id}}</ion-label>
+                        <ion-input
+                            type="text"
+                            readonly
+                            name="id"
+                        ></ion-input>
+                    </ion-item>
+                </ion-col>
+            </ion-row>
+
+            <ion-row>
+                <ion-col
+                    size-sm="6"
+                    offset-sm="3"
+                >
+                    <ion-item>
+                        <ion-label postion="floating">{{selectedLesson.name}}</ion-label>
+                        <ion-input
+                            type="text"
+                            readonly
+                            name="title"
+                        ></ion-input>
+                    </ion-item>
+                </ion-col>
+            </ion-row>
+
+            <ion-row>
+                <ion-col
+                    size-sm="6"
+                    offset-sm="3"
+                >
+                    <ion-item>
+                        <ion-label position="floating">Make a note...</ion-label>
+                        <ion-textarea
+                            ngModel
+                            name="note"
+                            autocomplete
+                            autocorrect
+                            rows="10"
+                            required
+                            ngModel
+                        ></ion-textarea>
+                    </ion-item>
+                </ion-col>
+            </ion-row>
+
+            <ion-row>
+                <ion-col
+                    size-sm="6"
+                    offset-sm="3"
+                >
+                    <ion-label position="floating">Note from</ion-label>
+                    <ion-datetime
+                        display-format="DD MMM YYYY"
+                        picker-format="DD MMM YYYY"
+                        name="createdOn"
+                        required
+                        [ngModel]="createdOn"
+                    ></ion-datetime>
+                </ion-col>
+            </ion-row>
+
+            <ion-row>
+                <ion-col
+                    size-sm="6"
+                    offset-sm="3"
+                >
+                    <ion-button
+                        type="submit"
+                        color="primary"
+                        expand="block"
+                        [disabled]="!f.valid"
+                    >
+                        Save Note
+                    </ion-button>
+                </ion-col>
+            </ion-row>
+        </ion-grid>
+    </form>
+</ion-content>
